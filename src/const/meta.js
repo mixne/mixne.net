@@ -1,8 +1,8 @@
 const Metadata = {
-    title: "Saki",
-    description: "A sample web site of the blog generator Saki",
-    baseUrl: "https://saki.pages.dev",
-    twitterId: "example",
+    title: "mixne",
+    description: "PC・ガジェットを中心に思ったこと感じたことを書くブログ",
+    baseUrl: "https://mixne.net",
+    twitterId: "mixnenet",
 };
 
 export default Metadata;
