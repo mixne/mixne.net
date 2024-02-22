@@ -1,3 +1,4 @@
+@import url("https://use.typekit.net/xzc8whg.css");
 .header {
     width: 100%;
     background-color: var(--bg-main-color);
@@ -8,8 +9,9 @@
 
 .header h1 {
     color: var(--logo-color);
+    font-family: 'All Round Gothic', sans-serif;
     font-size: 2.5rem;
-    font-weight: 600;
+    font-weight: 400;
     margin: 0;
     padding: 8px 0 0 0;
     text-align: center;

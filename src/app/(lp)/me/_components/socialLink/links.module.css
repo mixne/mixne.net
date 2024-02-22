@@ -1,0 +1,39 @@
+.link {
+    background-color: var(--bg-main-color);
+    border-radius: 16px;
+    box-shadow: 0 4px 4px rgba(0, 0, 0, 0.1);
+    color: var(--text-color);
+    display: flex;
+    margin: 1rem 0 0;
+    padding: 10px;
+}
+
+.link:hover {
+    background-color: var(--bg-hover-color);
+}
+
+.icon {
+    border-radius: 6px;
+    display: inline-flex;
+    width: 52px;
+    height: 52px;
+    padding: 14px;
+}
+
+.text {
+    margin: auto 0;
+    margin-left: 1rem;
+}
+
+.service {
+    color: var(--text-color);
+    display: block;
+    font-weight: bold;
+    line-height: 1rem;
+}
+
+.id {
+    color: #C8C8C8;
+    font-size: .8rem;
+    line-height: .8rem;
+}

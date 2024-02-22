@@ -1,0 +1,24 @@
+.me {
+    margin: 10px auto;
+    max-width: 768px;
+    width: 90%;
+}
+
+.name {
+    color: var(--text-color);
+    display: block;
+    font-size: 1.75rem;
+    text-align: center;
+    margin: 2rem 0 0;
+}
+
+.enName {
+    color: #7B7B7B;
+    line-height: 1rem;
+    text-align: center;
+    margin: 0;
+}
+
+.links {
+    margin: 3rem 0 0;
+}
