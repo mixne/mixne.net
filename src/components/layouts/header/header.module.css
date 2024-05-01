@@ -9,7 +9,7 @@
 
 .header h1 {
     color: var(--logo-color);
-    font-family: 'All Round Gothic', sans-serif;
+    font-family: all-round-gothic, sans-serif;
     font-size: 2.5rem;
     font-weight: 400;
     margin: 0;
