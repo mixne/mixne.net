@@ -1,8 +1,8 @@
-import { SiTwitter, SiBluesky, SiMastodon, SiMisskey, SiDiscord, SiGithub, SiYoutube, SiBookmeter } from '@icons-pack/react-simple-icons'
+import { SiTwitter, SiBluesky, SiMastodon, SiMisskey, SiDiscord, SiGithub, SiYoutube, SiBookmeter } from 'react-icons/si';
 
 export const Links = [{
         serviceName: 'Twitter',
-        icon: < SiTwitter color = 'default'
+        icon: < SiTwitter color = '#1DA1F2'
         size = { 24 }
         />,
         id: '@shion2521',
@@ -11,7 +11,7 @@ export const Links = [{
     },
     {
         serviceName: 'Bluesky',
-        icon: < SiBluesky color = 'default'
+        icon: < SiBluesky color = '#0285FF'
         size = { 24 }
         />,
         id: '@shion.bsky.social',
@@ -20,7 +20,7 @@ export const Links = [{
     },
     {
         serviceName: 'Mastodon',
-        icon: < SiMastodon color = 'default'
+        icon: < SiMastodon color = '#6364FF'
         size = { 24 }
         />,
         id: '@shion2521@mstdn.guru',
@@ -29,7 +29,7 @@ export const Links = [{
     },
     {
         serviceName: 'Misskey',
-        icon: < SiMisskey color = 'default'
+        icon: < SiMisskey color = '#A1CA03'
         size = { 24 }
         />,
         id: '@shioncha@misskey.backspace.fm',
@@ -38,7 +38,7 @@ export const Links = [{
     },
     {
         serviceName: 'Discord',
-        icon: < SiDiscord color = 'default'
+        icon: < SiDiscord color = '#5865F2'
         size = { 24 }
         />,
         id: 'shioncha',
@@ -47,7 +47,7 @@ export const Links = [{
     },
     {
         serviceName: 'YouTube',
-        icon: < SiYoutube color = "default"
+        icon: < SiYoutube color = "#FF0000"
         size = { 24 }
         />,
         id: '@shioncham',
@@ -56,7 +56,7 @@ export const Links = [{
     },
     {
         serviceName: '読書メーター',
-        icon: < SiBookmeter color = "default"
+        icon: < SiBookmeter color = "#64BC4B"
         size = { 24 }
         />,
         id: '932111',
@@ -65,7 +65,7 @@ export const Links = [{
     },
     {
         serviceName: 'GitHub',
-        icon: < SiGithub color = "default"
+        icon: < SiGithub color = "#181717"
         size = { 24 }
         />,
         id: 'shioncha',
