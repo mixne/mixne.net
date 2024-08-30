@@ -1,8 +1,9 @@
-import { SiTwitter, SiBluesky, SiMastodon, SiMisskey, SiDiscord, SiGithub, SiYoutube, SiBookmeter } from 'react-icons/si';
+import { SiBluesky, SiMastodon, SiMisskey, SiDiscord, SiGithub, SiYoutube, SiBookmeter } from 'react-icons/si';
+import { FaTwitter } from 'react-icons/fa';
 
 export const Links = [{
         serviceName: 'Twitter',
-        icon: < SiTwitter color = '#1DA1F2'
+        icon: < FaTwitter color = '#1DA1F2'
         size = { 24 }
         />,
         id: '@shion2521',
