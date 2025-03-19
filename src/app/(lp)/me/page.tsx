@@ -1,7 +1,9 @@
 import { Metadata } from 'next'
-import styles from './page.module.css';
-import { SocialLink } from './_components/socialLink';
+
 import { Links } from '@/const/links';
+
+import { SocialLink } from './_components/socialLink';
+import styles from './page.module.css';
 
 export const metadata: Metadata = {
     title: 'しおんのプロフィール',
